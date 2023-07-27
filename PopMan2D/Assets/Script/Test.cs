@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //プッシュテスト
     }
 
     // Update is called once per frame
